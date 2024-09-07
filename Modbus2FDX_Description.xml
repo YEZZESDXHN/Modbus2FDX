@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<canoefdxdescription version="1.0">
+  <datagroup groupID="100" size="14">
+    <identifier>Group 1</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="id1_address_0" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="id1_address_1" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="id1_address_2" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="id1_address_3" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="id1_address_4" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="id1_address_5" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="id1_address_6" namespace="Modbus2FDX::ID1" value="raw" />
+    </item>
+  </datagroup>
+</canoefdxdescription>

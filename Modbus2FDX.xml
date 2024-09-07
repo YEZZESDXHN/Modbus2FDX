@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<systemvariables version="4">
+  <namespace name="" comment="" interface="">
+    <namespace name="Modbus2FDX" comment="" interface="">
+      <namespace name="ID1" comment="" interface="">
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_0" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_1" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_2" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_3" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_4" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_5" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="id1_address_6" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+      </namespace>
+    </namespace>
+  </namespace>
+</systemvariables>

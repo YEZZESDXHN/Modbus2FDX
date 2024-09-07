@@ -1,0 +1,7 @@
+__pycache__
+CANoe
+ENV
+Load_32dll
+dist
+build
+*.spec
