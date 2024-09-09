@@ -1,0 +1,603 @@
+<?xml version="1.0" ?>
+<canoefdxdescription version="1.0">
+  <datagroup groupID="1" size="18">
+    <identifier>slave 1</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_1" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="2" size="18">
+    <identifier>slave 2</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_2" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="3" size="18">
+    <identifier>slave 3</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_3" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="4" size="18">
+    <identifier>slave 4</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_4" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="5" size="18">
+    <identifier>slave 5</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_5" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="6" size="18">
+    <identifier>slave 6</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_6" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="7" size="18">
+    <identifier>slave 7</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_7" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="8" size="18">
+    <identifier>slave 8</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_8" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="9" size="18">
+    <identifier>slave 9</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_9" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="10" size="18">
+    <identifier>slave 10</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_10" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="11" size="18">
+    <identifier>slave 11</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_11" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="12" size="18">
+    <identifier>slave 12</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_12" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="13" size="18">
+    <identifier>slave 13</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_13" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="14" size="18">
+    <identifier>slave 14</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_14" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="15" size="18">
+    <identifier>slave 15</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_15" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="16" size="18">
+    <identifier>slave 16</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_16" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="17" size="18">
+    <identifier>slave 17</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_17" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="18" size="18">
+    <identifier>slave 18</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_18" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="19" size="18">
+    <identifier>slave 19</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_19" value="raw"/>
+    </item>
+  </datagroup>
+  <datagroup groupID="20" size="18">
+    <identifier>slave 20</identifier>
+    <item offset="0" size="2" type="uint16">
+      <sysvar name="Register_0" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="2" size="2" type="uint16">
+      <sysvar name="Register_1" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="4" size="2" type="uint16">
+      <sysvar name="Register_2" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="6" size="2" type="uint16">
+      <sysvar name="Register_3" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="8" size="2" type="uint16">
+      <sysvar name="Register_4" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="10" size="2" type="uint16">
+      <sysvar name="Register_5" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="12" size="2" type="uint16">
+      <sysvar name="Register_6" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="14" size="2" type="uint16">
+      <sysvar name="Register_7" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+    <item offset="16" size="2" type="uint16">
+      <sysvar name="Register_8" namespace="ModbusRegister::Slave_20" value="raw"/>
+    </item>
+  </datagroup>
+</canoefdxdescription>
